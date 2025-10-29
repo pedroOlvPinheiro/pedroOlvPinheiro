@@ -1,9 +1,13 @@
 <!-- Apresentação breve -->
-<h1 align="center">Hi, I'm Pedro Oliveira</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c3d2e3&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</div>
 <h3 align="center">A backend developer from Brazil</h3>
 
 
-<!-- GitHub Stats + Contribution Snake side by side -->
+<!-- GitHub Stats + Contribution Snake -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,6 +15,7 @@
          height="150" 
          alt="Pedro's GitHub stats">
   </a>
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroOlvPinheiro)](https://github.com/anuraghazra/github-readme-stats) -->
   
   <!-- Contribution Snake -->
   <picture>
@@ -21,7 +26,6 @@
          height="150">
   </picture>
 </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroOlvPinheiro)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Redes sociais -->
 <div> 
