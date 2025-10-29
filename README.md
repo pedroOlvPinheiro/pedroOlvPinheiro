@@ -5,6 +5,7 @@
 
 <!-- Status -->
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroOlvPinheiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroOlvPinheiro)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Redes sociais -->
 <div> 
