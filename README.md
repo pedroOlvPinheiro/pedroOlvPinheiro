@@ -1,16 +1,24 @@
-<!-- Apresentação breve -->
+<!-- Primeira visão do perfil -->
 <div align="center">
+  
+  <hr>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c3d2e3&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
+  <hr>
+  
+  <!-- Imagem -->
+  <p align="center">
+    <img alt="" src="./src/kanagawa_wave.jpg" width="100%" height=230px>
+  </p>
+  
 </div>
 
-<p align="center">
-  <img alt="" src="./src/kanagawa_wave.jpg" width="100%" height=230px>
-</p>
+#
 
-<h3 align="center">A backend developer from Brazil</h3>
+<p align="center">Estudante de sistemas de informação no Institudo Federal do Maranhão. Buscando especialização em desenvolvimento back-end dando preferência à linguagem Typescript e NestJS de framework. Atualmente trabalhando em uma startup e buscando desenvolver projetos paralelos que incentivem a descoberta de ferramentas que me tornem um desenvolvedor capaz de criar soluções eficientes.</p>
 
+#
 
 <!-- GitHub Stats + Contribution Snake -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
