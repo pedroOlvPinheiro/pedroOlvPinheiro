@@ -14,9 +14,64 @@
   
 </div>
 
+<!-- Breve apresentação -->
 #
 
 <p align="center">Estudante de sistemas de informação no Institudo Federal do Maranhão. Buscando especialização em desenvolvimento back-end dando preferência à linguagem Typescript e NestJS de framework. Atualmente trabalhando em uma startup e buscando desenvolver projetos paralelos que incentivem a descoberta de ferramentas que me tornem um desenvolvedor capaz de criar soluções eficientes.</p>
+
+#
+
+<!-- Contatos e stacks  -->
+<div> 
+  
+  <img align="right" alt="" height="400px" width="400px" src="./src/test2.jpg">
+  
+  <!--Contatos -->
+  <h3>Contatos</h3>
+  <a href="mailto:pedroolvcontato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pedro_lvra/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+<!-- Ferramentas -->
+  <h3 align="left">Stacks</h3>
+
+  <p align="left">
+    <!-- Linguagens de Programação -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <!-- Frameworks -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <!-- Bancos de Dados -->
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <!-- Controle de Versão -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+</p>
+</div>
 
 #
 
@@ -40,53 +95,3 @@
   </picture>
 </div>
 
-<!-- Redes sociais -->
-<div> 
-  <a href="mailto:pedroolvcontato@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pedro_lvra/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
-
-
-<!-- Ferramentas -->
-<h3 align="left">Stacks</h3>
-
-<p align="left">
-  <!-- Linguagens de Programação -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Frameworks -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Bancos de Dados -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Controle de Versão -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-</p>
