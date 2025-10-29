@@ -24,7 +24,7 @@
 <!-- Contatos e stacks  -->
 <div> 
   
-  <img align="right" alt="" height="400px" width="400px" src="./src/test2.jpg">
+  <img align="right" alt="" height="390px" width="400px" src="./src/test2.jpg">
   
   <!--Contatos -->
   <h3>Contatos</h3>
@@ -39,7 +39,7 @@
   <h3 align="left">Stacks</h3>
 
   <p align="left">
-    <!-- Linguagens de Programação -->
+    <!-- Linguagens de Pogramação -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>&nbsp;&nbsp;
