@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Pedro Oliveira</h1>
 <h3 align="center">A backend developer from Brazil</h3>
-
-- I’m currently working on **Rethink 3D**
+I’m currently working on **Rethink 3D**
 
 <h3 align="left">Connect with me:</h3>
 
