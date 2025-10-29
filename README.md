@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c3d2e3&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
+
+<p align="center">
+</p>
+
 <h3 align="center">A backend developer from Brazil</h3>
 
 
