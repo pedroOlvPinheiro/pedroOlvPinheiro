@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroOlvPinheiro&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroOlvPinheiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
