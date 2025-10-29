@@ -6,6 +6,7 @@
 </div>
 
 <p align="center">
+  <img alt="" src="./src/teste3.jpg" width="100%" height=1000px>
 </p>
 
 <h3 align="center">A backend developer from Brazil</h3>
