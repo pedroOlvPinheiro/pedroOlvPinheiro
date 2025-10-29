@@ -3,8 +3,24 @@
 <h3 align="center">A backend developer from Brazil</h3>
 
 
-<!-- Status -->
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroOlvPinheiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats + Contribution Snake side by side -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedroOlvPinheiro&show_icons=true&theme=tokyonight" 
+         height="150" 
+         alt="Pedro's GitHub stats">
+  </a>
+  
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" 
+         src="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake.svg" 
+         height="150">
+  </picture>
+</div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroOlvPinheiro)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Redes sociais -->
@@ -19,7 +35,7 @@
 
 
 <!-- Ferramentas -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stacks</h3>
 
 <p align="left">
   <!-- Linguagens de Programação -->
@@ -57,10 +73,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 </p>
-
-<!-- Animação cobrinha comendo commits -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroOlvPinheiro/pedroOlvPinheiro/output/github-contribution-grid-snake.svg">
-</picture>
