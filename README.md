@@ -24,7 +24,7 @@
 <!-- Contatos e stacks  -->
 <div> 
   
-  <img align="right" alt="" height="390px" width="400px" src="./src/test2.jpg">
+  <img align="right" alt="" height="500px" width="400px" src="./src/test2.jpg">
   
   <!--Contatos -->
   <h3>Contatos</h3>
