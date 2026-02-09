@@ -17,7 +17,7 @@
 <!-- Breve apresentação -->
 #
 
-<p align="center">Estudante de sistemas de informação no Institudo Federal do Maranhão. Buscando especialização em desenvolvimento back-end dando preferência à linguagem Typescript e NestJS de framework. Atualmente trabalhando em uma startup e buscando desenvolver projetos paralelos que incentivem a descoberta de ferramentas que me tornem um desenvolvedor capaz de criar soluções eficientes.</p>
+<p align="center">Graduando em sistemas de informação no Institudo Federal do Maranhão. Buscando especialização em desenvolvimento back-end dando preferência à linguagem Typescript e NestJS de framework. Atualmente trabalhando em uma startup e buscando desenvolver projetos paralelos que incentivem a descoberta de ferramentas que me tornem um desenvolvedor capaz de criar soluções eficientes.</p>
 
 #
 
